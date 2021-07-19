@@ -1,0 +1,14 @@
+{
+    "name": "stark/php-singleton-design-pattern",
+    "authors": [
+        {
+            "name": "ettorestark",
+            "email": "ettoreastark@gmail.com"
+        }
+    ],
+    "require": {},
+
+		"scripts": {
+			"serve": "php -S localhost:8080 index.php"
+		}
+}
